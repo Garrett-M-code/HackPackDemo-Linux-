@@ -1,3 +1,4 @@
+#!/bin/bash
 useradd -m hackerman
 useradd systemctlr
 
